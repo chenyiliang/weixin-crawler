@@ -1,0 +1,5 @@
+﻿#忽视所有文件，除了src目录和.gitignore
+/*
+!.gitignore
+!/src
+!pom.xml
